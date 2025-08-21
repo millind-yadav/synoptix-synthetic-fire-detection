@@ -1,0 +1,17 @@
+# Data and results
+data/
+results/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.pytest_cache/
+
+# Env
+.venv/
+env/
+
+# Docker
+*.dockerignore

@@ -1,0 +1,13 @@
+training:
+  epochs: 25
+  fine_tune_epochs: 10
+  batch_size_tpu: 128
+  batch_size_gpu: 64
+  batch_size_cpu: 32
+
+paths:
+  experiments: data/ratio_experiments
+  results: results
+
+gcs:
+  bucket: null
