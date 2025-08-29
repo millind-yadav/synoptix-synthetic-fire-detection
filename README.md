@@ -11,7 +11,7 @@ This project investigates the use of synthetic data to train AI models for early
 - Basic tests and CI pipeline.
 
 ## Setup
-1. Clone the repo: `git clone https://github.com/yourusername/synoptix-synthetic-fire-detection.git`
+1. Clone the repo: `https://github.com/millind-yadav/synoptix-synthetic-fire-detection.git`
 2. Install dependencies: `pip install -r requirements.txt`
    - Or use Conda: `conda env create -f environment.yml && conda activate synoptix`
 3. Prepare data: Place your datasets in `data/ratio_experiments/` (structure: e.g., `100R0S/train/fire/`, etc.). You manage this.
